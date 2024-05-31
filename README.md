@@ -4,7 +4,7 @@
 - 💬 Ask me anything about ** Computer Science**
 
 - 📫 How to reach me **bhardwajaditya394@gmail.com/12113012@nitkkr.ac.in**
-- Currently working at Tetrahedron Manufacturing Services Pvt Ltd**
+- Currently working as SDE intern at Tetrahedron Manufacturing Services Pvt Ltd Noida**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
