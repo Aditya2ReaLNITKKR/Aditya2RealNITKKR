@@ -33,7 +33,8 @@ I am a Full Stack Developer from India, currently pursuing my B.Tech in Informat
 
 ### :fire: My Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya2ReaLNITKKR&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya2ReaLNITKKR&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya2ReaLNITKKR&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya2ReaLNITKKR&layout=compact&theme=radical)
 
 ---
 
